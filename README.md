@@ -30,7 +30,6 @@ Executed on Google colob (CPU).The MLflow UI screenshots are replaced by equival
 - **Direction:** macro-F1, accuracy, precision, recall: higher is better. Latency and total inference time: lower is better.
 
 ## 4. Results
-*(Copy from `outputs/results_table.csv` after running `evaluate.py`.)*
 
 | Metric | A: DistilBERT | B: RoBERTa-large | B − A |
 |---|---|---|---|
