@@ -20,7 +20,7 @@ python predict_from_mlflow.py                           # loads models:/sentimen
 python predict_from_mlflow.py --alias challenger        # stretch: other alias, script unchanged
 ```
 MLflow UI: http://127.0.0.1:5000 (experiment `hf-sentiment-champion-challenger`).
-Executed on Google colob (CPU).The MLflow UI screenshots are replaced by equivalent tables from the same MLflow server.
+Executed on Google Colab (CPU).The MLflow UI screenshots are replaced by equivalent tables from the same MLflow server.
 
 ## 3. Champion rule (written BEFORE the final run, not changed afterwards)
 - **Primary metric:** macro-F1 (higher is better). Secondary: accuracy (higher), avg latency in ms (lower).
