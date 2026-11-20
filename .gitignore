@@ -1,0 +1,8 @@
+mlruns/
+mlartifacts/
+mlflow.db
+*.pkl
+*.bin
+*.safetensors
+__pycache__/
+.venv/
