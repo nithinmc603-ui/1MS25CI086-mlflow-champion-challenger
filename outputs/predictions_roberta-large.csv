@@ -1,0 +1,101 @@
+id,text,label,prediction,label_name,score,correct,latency_ms
+0,it confirms fincher 's status as a film maker who artfully bends technical know-how to the service of psychological insight . ,1,1,POSITIVE,0.9989,1,2175.1270230001865
+1,too much of it feels unfocused and underdeveloped . ,0,0,NEGATIVE,0.9995,1,1160.2277980000508
+2,a great ensemble cast ca n't lift this heartfelt enterprise out of the familiar . ,0,0,NEGATIVE,0.9984,1,1369.066419000319
+3,"prurient playthings aside , there 's little to love about this english trifle . ",0,0,NEGATIVE,0.9995,1,1407.6716089998627
+4,"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise . ",1,1,POSITIVE,0.9985,1,2044.3881779997355
+5,"it proves quite compelling as an intense , brooding character study . ",1,1,POSITIVE,0.9988,1,433.07794900010776
+6,bogdanovich tantalizes by offering a peep show into the lives of the era 's creme de la celluloid . ,1,1,POSITIVE,0.9987,1,849.0272740000364
+7,looks and feels like a project better suited for the small screen . ,0,0,NEGATIVE,0.9993,1,591.1770859997887
+8,verbinski implements every hack-artist trick to give us the ooky-spookies . ,0,0,NEGATIVE,0.9943,1,665.2230219997364
+9,"this is a good script , good dialogue , funny even for adults . ",1,1,POSITIVE,0.9989,1,587.970714000221
+10,a painfully funny ode to bad behavior . ,1,1,POSITIVE,0.9986,1,533.5531189998619
+11,"there is a fabric of complex ideas here , and feelings that profoundly deepen them . ",1,1,POSITIVE,0.9989,1,2123.00187000028
+12,the overall effect is less like a children 's movie than a recruitment film for future hollywood sellouts . ,0,0,NEGATIVE,0.9994,1,629.8769090003589
+13,"as the two leads , lathan and diggs are charming and have chemistry both as friends and lovers . ",1,1,POSITIVE,0.9989,1,487.8140959999655
+14,"the title not only describes its main characters , but the lazy people behind the camera as well . ",0,0,NEGATIVE,0.9987,1,439.14817000040784
+15,zhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast . ,1,1,POSITIVE,0.9989,1,467.22233100035737
+16,"not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time . ",1,1,POSITIVE,0.9989,1,1333.8175899998532
+17,"beautifully observed , miraculously unsentimental comedy-drama . ",1,1,POSITIVE,0.9989,1,747.1764450001501
+18,"the last 20 minutes are somewhat redeeming , but most of the movie is the same teenage american road-trip drek we 've seen before - only this time you have to read the fart jokes ",0,0,NEGATIVE,0.9995,1,894.5018530002926
+19,if you dig on david mamet 's mind tricks ... rent this movie and enjoy ! ,1,1,POSITIVE,0.9988,1,475.01453900031265
+20,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam . ",0,0,NEGATIVE,0.999,1,661.7414970000937
+21,"yes , dull . ",0,0,NEGATIVE,0.9992,1,303.6628310001106
+22,"shaky close-ups of turkey-on-rolls , stubbly chins , liver spots , red noses and the filmmakers new bobbed do draw easy chuckles but lead nowhere . ",0,0,NEGATIVE,0.9995,1,645.677828999851
+23,the second coming of harry potter is a film far superior to its predecessor . ,1,1,POSITIVE,0.9987,1,465.0870360001136
+24,"if you 're hard up for raunchy college humor , this is your ticket right here . ",1,1,POSITIVE,0.9986,1,518.5267639999438
+25,"nonsensical , dull `` cyber-horror '' flick is a grim , hollow exercise in flat scares and bad acting . ",0,0,NEGATIVE,0.9995,1,786.666311999852
+26,"a delectable and intriguing thriller filled with surprises , read my lips is an original . ",1,1,POSITIVE,0.9988,1,449.6779270002662
+27,"thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men . ",1,1,POSITIVE,0.9988,1,644.9131809999926
+28,there 's no emotional pulse to solaris . ,0,0,NEGATIVE,0.9995,1,343.09725200000685
+29,"a fast , funny , highly enjoyable movie . ",1,1,POSITIVE,0.9989,1,507.8826769999978
+30,"too restrained to be a freak show , too mercenary and obvious to be cerebral , too dull and pretentious to be engaging ... the isle defies an easy categorization . ",0,0,NEGATIVE,0.9994,1,951.0189689999606
+31,an unwise amalgam of broadcast news and vibes . ,0,0,NEGATIVE,0.9994,1,529.4589409995751
+32,"a pleasant enough romance with intellectual underpinnings , the kind of movie that entertains even as it turns maddeningly predictable . ",1,1,POSITIVE,0.7664,1,806.1838710000302
+33,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks . ",0,0,NEGATIVE,0.9995,1,1093.9320930001486
+34,it 's hard to imagine alan arkin being better than he is in this performance . ,1,1,POSITIVE,0.9989,1,1105.7781340000474
+35,"dazzles with its fully-written characters , its determined stylishness ( which always relates to characters and story ) and johnny dankworth 's best soundtrack in years . ",1,1,POSITIVE,0.9989,1,625.4340919999777
+36,"fun , flip and terribly hip bit of cinematic entertainment . ",1,0,NEGATIVE,0.9985,0,421.1360459999014
+37,the movie fails to live up to the sum of its parts . ,0,0,NEGATIVE,0.9995,1,363.76833400026953
+38,one of the more intelligent children 's movies to hit theaters this year . ,1,1,POSITIVE,0.9988,1,372.3900129998583
+39,corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in . ,0,0,NEGATIVE,0.9995,1,511.1346200001208
+40,the performances take the movie to a higher level . ,1,1,POSITIVE,0.9989,1,336.6351370000302
+41,"one of those pictures whose promising , if rather precious , premise is undercut by amateurish execution . ",0,0,NEGATIVE,0.9995,1,433.00843299994085
+42,a compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband becomes an obsession . ,1,1,POSITIVE,0.9988,1,532.6365060000171
+43,uses high comedy to evoke surprising poignance . ,1,1,POSITIVE,0.9988,1,334.3185660000927
+44,it has all the excitement of eating oatmeal . ,0,0,NEGATIVE,0.9994,1,354.5413480001116
+45,"feature debuter d.j. caruso directs a crack ensemble cast , bringing screenwriter tony gayton 's narcotics noir to life . ",1,1,POSITIVE,0.9988,1,540.1309639996725
+46,"the old-world - meets-new mesh is incarnated in the movie 's soundtrack , a joyful effusion of disco bollywood that , by the end of monsoon wedding , sent my spirit soaring out of the theater . ",1,1,POSITIVE,0.9989,1,740.6291499996769
+47,"an important movie , a reminder of the power of film to move us and to make us examine our values . ",1,1,POSITIVE,0.9989,1,456.4290050002455
+48,it 's a bit disappointing that it only manages to be decent instead of dead brilliant . ,0,1,POSITIVE,0.9972,0,430.9555219997492
+49,it 's not the ultimate depression-era gangster movie . ,0,0,NEGATIVE,0.9958,1,360.0661119999131
+50,"it has the charm of the original american road movies , feasting on the gorgeous , ramshackle landscape of the filmmaker 's motherland . ",1,1,POSITIVE,0.9988,1,555.2723559999322
+51,"the vitality of the actors keeps the intensity of the film high , even as the strafings blend together . ",1,1,POSITIVE,0.9988,1,463.36926000003587
+52,"the movie is n't just hilarious : it 's witty and inventive , too , and in hindsight , it is n't even all that dumb . ",1,1,POSITIVE,0.9989,1,556.7664179998246
+53,"it 's difficult to imagine the process that produced such a script , but here 's guessing that spray cheese and underarm noises played a crucial role . ",0,0,NEGATIVE,0.9967,1,543.8114739999946
+54,"while locals will get a kick out of spotting cleveland sites , the rest of the world will enjoy a fast-paced comedy with quirks that might make the award-winning coen brothers envious . ",1,1,POSITIVE,0.9988,1,669.5751280003606
+55,broomfield turns his distinctive ` blundering ' style into something that could really help clear up the case . ,1,1,POSITIVE,0.9988,1,526.3759580002443
+56,oh come on . ,0,0,NEGATIVE,0.9939,1,440.4884300001868
+57,"awesome creatures , breathtaking scenery , and epic battle scenes add up to another ` spectacular spectacle . ' ",1,1,POSITIVE,0.9989,1,642.9958440003247
+58,"paid in full is so stale , in fact , that its most vibrant scene is one that uses clips from brian de palma 's scarface . ",0,0,NEGATIVE,0.9995,1,833.4112530001221
+59,"warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women , water , nature , and sexuality . ",1,1,POSITIVE,0.9989,1,836.7604750001192
+60,the wild thornberrys movie is a jolly surprise . ,1,1,POSITIVE,0.9987,1,559.5941659998971
+61,"the film flat lines when it should peak and is more missed opportunity and trifle than dark , decadent truffle . ",0,0,NEGATIVE,0.9995,1,753.0181639999682
+62,"for the first time in years , de niro digs deep emotionally , perhaps because he 's been stirred by the powerful work of his co-stars . ",1,1,POSITIVE,0.9988,1,656.5788530001555
+63,"escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie . ",1,1,POSITIVE,0.9989,1,461.32362399976046
+64,"a moody , multi-dimensional love story and sci-fi mystery , solaris is a thought-provoking , haunting film that allows the seeds of the imagination to germinate . ",1,1,POSITIVE,0.9989,1,638.4905519998938
+65,"a celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences . ",1,1,POSITIVE,0.9988,1,501.53560500029926
+66,"harris commands the screen , using his frailty to suggest the ravages of a life of corruption and ruthlessness . ",1,1,POSITIVE,0.9989,1,483.98722799993266
+67,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem . ",0,0,NEGATIVE,0.9995,1,677.9896360003477
+68,"martin and barbara are complex characters -- sometimes tender , sometimes angry -- and the delicate performances by sven wollter and viveka seldahl make their hopes and frustrations vivid . ",1,1,POSITIVE,0.9989,1,653.9695929996014
+69,"as a first-time director , paxton has tapped something in himself as an actor that provides frailty with its dark soul . ",1,1,POSITIVE,0.9989,1,490.2305229998092
+70,"the result is a gaudy bag of stale candy , something from a halloween that died . ",0,0,NEGATIVE,0.9995,1,463.5718239997004
+71,it is great summer fun to watch arnold and his buddy gerald bounce off a quirky cast of characters . ,1,1,POSITIVE,0.9989,1,467.58625899974504
+72,"the best revenge may just be living well because this film , unlike other dumas adaptations , is far more likened to a treasure than a lengthy jail sentence . ",1,1,POSITIVE,0.9988,1,579.5785290001731
+73,"sticky sweet sentimentality , clumsy plotting and a rosily myopic view of life in the wwii-era mississippi delta undermine this adaptation . ",0,0,NEGATIVE,0.9995,1,573.4823379998488
+74,"even if you do n't think ( kissinger 's ) any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch . ",1,1,POSITIVE,0.9978,1,640.5937999998059
+75,"forced , familiar and thoroughly condescending . ",0,0,NEGATIVE,0.9995,1,318.36047300021164
+76,"this is a winning ensemble comedy that shows canadians can put gentle laughs and equally gentle sentiments on the button , just as easily as their counterparts anywhere else in the world . ",1,1,POSITIVE,0.9989,1,630.614580999918
+77,"scores no points for originality , wit , or intelligence . ",0,0,NEGATIVE,0.9995,1,357.5468799999726
+78,"an entertaining , colorful , action-filled crime story with an intimate heart . ",1,1,POSITIVE,0.9989,1,390.64134799991734
+79,manages to be sweet and wickedly satisfying at the same time . ,1,1,POSITIVE,0.9988,1,381.39740300039193
+80,i got a headache watching this meaningless downer . ,0,0,NEGATIVE,0.9995,1,332.3363640001844
+81,it 's a stunning lyrical work of considerable force and truth . ,1,1,POSITIVE,0.9989,1,392.6293810000061
+82,"i 've always dreamed of attending cannes , but after seeing this film , it 's not that big a deal . ",0,1,POSITIVE,0.9987,0,693.0439640000259
+83,"so much facile technique , such cute ideas , so little movie . ",1,0,NEGATIVE,0.9995,0,555.7557339998311
+84,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second . ",0,0,NEGATIVE,0.9915,1,952.2887970001648
+85,just not campy enough ,0,0,NEGATIVE,0.9974,1,396.30413100030637
+86,when leguizamo finally plugged an irritating character late in the movie . ,0,0,NEGATIVE,0.9994,1,597.1248920000107
+87,"visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality . ",1,1,POSITIVE,0.9989,1,1081.1517719998847
+88,"( e ) ventually , every idea in this film is flushed down the latrine of heroism . ",0,0,NEGATIVE,0.9995,1,511.4277480001874
+89,the story and structure are well-honed . ,1,1,POSITIVE,0.9988,1,338.3247840001786
+90,"for close to two hours the audience is forced to endure three terminally depressed , mostly inarticulate , hyper dysfunctional families for the price of one . ",0,0,NEGATIVE,0.9994,1,566.502797999874
+91,a rarity among recent iranian films : it 's a comedy full of gentle humor that chides the absurdity of its protagonist 's plight . ,1,1,POSITIVE,0.9989,1,534.768539000197
+92,"/ but daphne , you 're too buff / fred thinks he 's tough / and velma - wow , you 've lost weight ! ",0,1,POSITIVE,0.9903,0,589.6739600002547
+93,"`` mostly martha '' is a bright , light modern day family parable that wears its heart on its sleeve for all to see . ",1,1,POSITIVE,0.9989,1,499.8545980001836
+94,a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of self-importance ... ,0,0,NEGATIVE,0.9995,1,467.07307399992715
+95,"too slow , too long and too little happens . ",0,0,NEGATIVE,0.9995,1,336.1660240002493
+96,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books . ",1,1,POSITIVE,0.9989,1,749.1516449999835
+97,has all the depth of a wading pool . ,0,0,NEGATIVE,0.9985,1,334.62595199989664
+98,"even in its most tedious scenes , russian ark is mesmerizing . ",1,1,POSITIVE,0.9988,1,378.64538199983144
+99,"on this tricky topic , tadpole is very much a step in the right direction , with its blend of frankness , civility and compassion . ",1,1,POSITIVE,0.9989,1,564.055948999794

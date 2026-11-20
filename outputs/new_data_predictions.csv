@@ -1,0 +1,9 @@
+text,prediction,label_name,score,expected,model_version,hf_model_id
+The lab sessions were well organised and I learned a lot.,1,POSITIVE,0.9989,POSITIVE,2,siebert/sentiment-roberta-large-english
+The server kept crashing and the documentation was useless.,0,NEGATIVE,0.9995,NEGATIVE,2,siebert/sentiment-roberta-large-english
+Honestly one of the best course projects I have worked on.,1,POSITIVE,0.9989,POSITIVE,2,siebert/sentiment-roberta-large-english
+The canteen food was cold and overpriced again today.,0,NEGATIVE,0.9995,NEGATIVE,2,siebert/sentiment-roberta-large-english
+Debugging this pipeline was frustrating but the result is satisfying.,1,POSITIVE,0.9989,POSITIVE,2,siebert/sentiment-roberta-large-english
+I waited two hours and nobody could help me with my issue.,0,NEGATIVE,0.9995,NEGATIVE,2,siebert/sentiment-roberta-large-english
+The new library building is bright and calm and a joy to study in.,1,POSITIVE,0.9989,POSITIVE,2,siebert/sentiment-roberta-large-english
+The app is slow and the interface is confusing to use.,0,NEGATIVE,0.9995,NEGATIVE,2,siebert/sentiment-roberta-large-english

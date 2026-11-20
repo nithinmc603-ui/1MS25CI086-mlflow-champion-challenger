@@ -1,0 +1,21 @@
+{
+  "model_a": {
+    "accuracy": 0.97,
+    "macro_f1": 0.9691,
+    "precision_macro": 0.9709,
+    "recall_macro": 0.9676,
+    "avg_latency_ms": 67.387,
+    "total_inference_s": 6.7387
+  },
+  "model_b": {
+    "accuracy": 0.95,
+    "macro_f1": 0.9485,
+    "precision_macro": 0.9502,
+    "recall_macro": 0.947,
+    "avg_latency_ms": 636.6043,
+    "total_inference_s": 63.6604
+  },
+  "delta_primary_metric": -0.0206,
+  "winner": "A",
+  "reason": "challenger is worse by -0.0206"
+}
