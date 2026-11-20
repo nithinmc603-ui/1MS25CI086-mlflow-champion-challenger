@@ -20,6 +20,7 @@ python predict_from_mlflow.py                           # loads models:/sentimen
 python predict_from_mlflow.py --alias challenger        # stretch: other alias, script unchanged
 ```
 MLflow UI: http://127.0.0.1:5000 (experiment `hf-sentiment-champion-challenger`).
+Executed on Google colob (CPU).The MLflow UI screenshots are replaced by equivalent tables from the same MLflow server.
 
 ## 3. Champion rule (written BEFORE the final run, not changed afterwards)
 - **Primary metric:** macro-F1 (higher is better). Secondary: accuracy (higher), avg latency in ms (lower).
@@ -33,13 +34,13 @@ MLflow UI: http://127.0.0.1:5000 (experiment `hf-sentiment-champion-challenger`)
 
 | Metric | A: DistilBERT | B: RoBERTa-large | B − A |
 |---|---|---|---|
-| Accuracy | | | |
-| Macro-F1 | | | |
-| Avg latency (ms) | | | |
-| Total inference (s) | | | |
+| Accuracy | 0.9700 | 0.9500 | -0.0200 |
+| Macro-F1 | 0.9691 | 0.9485 | -0.0206 |
+| Avg latency (ms) | 67.39 | 636.60 | +569.22 |
+| Total inference (s) | 6.74 | 63.66 | +56.92 |
 
 ## 5. Decision (150–250 words)
-*(Write this yourself after seeing the results. Answer: Does the Challenger improve on the Champion? By how much? Is the difference meaningful for 100 samples? What are the trade-offs in speed, size and errors? Refer to `outputs/disagreements.csv`.)*
+On the same 100 SST-2 validation sentences, Model A (DistilBERT) scored an accuracy of 0.970 and a macro-F1 of 0.9691, while Model B (RoBERTa-large) scored 0.950 and 0.9485. The Challenger is therefore worse by 0.0206 macro-F1, so it does not reach the required +0.01 margin and my rule keeps Model A as the Champion. The latency guardrail did not decide this: Model B was 9.45 times slower (636.6 ms against 67.4 ms per example) and about five times larger (355M against 67M parameters), but it was also less accurate. The gap is only two examples out of 100, so with a small evaluation set it could be noise, and I cannot claim that RoBERTa-large is worse in general. In the five disagreement examples, Model A was correct on four. The errors appear to involve mixed or ambiguous sentiment, such as “fun, flip and terribly hip bit of cinematic entertainment” and short sentences like “oh come on”. The trade-off is clear: the larger model costs much more time and memory without any gain here. My decision is to keep DistilBERT as the Champion and keep RoBERTa-large registered as the Challenger, to be re-tested on a larger evaluation set.
 
 ## 6. Limitations and declaration
 - Only 100 evaluation examples; a difference of 1–2 points can be noise. Latency was measured on CPU, one example at a time.
